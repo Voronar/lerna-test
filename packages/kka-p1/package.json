@@ -1,6 +1,6 @@
 {
   "name": "kka-p1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://nexus.gost-group.com/repository/gp-npm-private/"
+  }
 }
